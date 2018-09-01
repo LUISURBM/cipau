@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  idrole: 1
+  name: MyString
+  description: MyString
+  createdate: 2018-08-31 15:57:26
+  updatedate: 2018-08-31 15:57:26
+  enabled: false
+
+two:
+  idrole: 1
+  name: MyString
+  description: MyString
+  createdate: 2018-08-31 15:57:26
+  updatedate: 2018-08-31 15:57:26
+  enabled: false

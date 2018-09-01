@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  idclient: 1
+  name: MyString
+  codlocality: MyString
+  description: MyString
+  createdate: 2018-08-31 15:58:40
+  updatedate: 2018-08-31 15:58:40
+  enabled: false
+
+two:
+  idclient: 1
+  name: MyString
+  codlocality: MyString
+  description: MyString
+  createdate: 2018-08-31 15:58:40
+  updatedate: 2018-08-31 15:58:40
+  enabled: false

@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  iduser: 1
+  name: MyString
+  codlocality: MyString
+  description: MyString
+  email: MyString
+  username: MyString
+  password: MyString
+  createdate: 2018-08-31 15:57:46
+  updatedate: 2018-08-31 15:57:46
+  enabled: false
+
+two:
+  iduser: 1
+  name: MyString
+  codlocality: MyString
+  description: MyString
+  email: MyString
+  username: MyString
+  password: MyString
+  createdate: 2018-08-31 15:57:46
+  updatedate: 2018-08-31 15:57:46
+  enabled: false

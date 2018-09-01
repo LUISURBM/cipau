@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  iduserlocalityrole: 1
+  idrole: 1
+  iduser: 1
+
+two:
+  iduserlocalityrole: 1
+  idrole: 1
+  iduser: 1

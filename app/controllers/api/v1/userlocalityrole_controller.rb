@@ -1,0 +1,2 @@
+class UserlocalityroleController < ApplicationController
+end

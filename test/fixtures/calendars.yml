@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  idcalendar: 1
+  codlocality: MyString
+  name: MyString
+  description: MyString
+  validunit: MyString
+  createdate: 2018-08-31 15:55:10
+  updatedate: 2018-08-31 15:55:10
+  enabled: false
+
+two:
+  idcalendar: 1
+  codlocality: MyString
+  name: MyString
+  description: MyString
+  validunit: MyString
+  createdate: 2018-08-31 15:55:10
+  updatedate: 2018-08-31 15:55:10
+  enabled: false

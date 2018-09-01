@@ -1,0 +1,2 @@
+class Userlocalityrole < ApplicationRecord
+end
